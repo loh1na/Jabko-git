@@ -5,7 +5,7 @@ Jabko is the minimal package manager for my linux distro called ULinux fully wro
 ## WARNING: IT CAN HURT TO YOUR HOST SYSTEM BE SURE THAT YOU RUNNING ON VM OR SOMETHING LIKE
 ```
 unzip Jabko-git-main.zip
-cd jabko
+cd Jabko-git-main
 python main.py <option> <package>
 ```
 # Options for jabko
