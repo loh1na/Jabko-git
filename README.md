@@ -20,4 +20,4 @@ python main.py find nano
 
 and if it exists it would wrote someting like this
 
-![alt text](https://imgur.com/Wwd3mPS)
+![alt text](https://i.imgur.com/Wwd3mPS.png)
