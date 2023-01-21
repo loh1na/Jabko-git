@@ -30,7 +30,7 @@ class main:
                                     os.chdir(name)
                                     print ("compiling and installing package...")
                                     if name.find("Makefile") != -1:
-                                        os.system("make -j{os.cpu_count()}")
+                                        os.system(f"make -j{os.cpu_count()}")
                                     else:
                                         os.system(f"./configure --prefix=/usr && make -j{os.cpu_count()}")
                                         print ("instalation finished")
